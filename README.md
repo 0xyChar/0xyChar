@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @0xyChar
-- 👀 I’m interested in Data science,Machine learning and artificialintelligence...
+- 👀 I’m interested in Data science,Machine learning and artificial intelligence...
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ai research
 - 📫 How to reach me mutuacharity62@gmail.com 
-- 😄 Pronouns: 
+- 😄 Pronouns: she-she
 - ⚡ Fun fact:I love math!
 
 <!---
